@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on UCSC Course Planner, a Next.js + GraphQL application for UCSC students to plan courses
-- 🌱 I’m currently learning Java ☕ and the Spring Framework to effectively build microservices
+- 🔭 I’m currently working on UCSC Course Planner, a Next.js + GraphQL application for UCSC students
+- 🐭 I’m currently using Go to build microservices at scale
 - 📫 How to reach me: ercevik.furkan@gmail.com. Or connect with me on LinkedIn 🔗!
 - 💬 Ask me about anything related to soccer ⚽, bodybuilding 🏋️, or the cloud ☁️.
 <!--
